@@ -1,0 +1,8 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.img-color {
+    -webkit-mask-image: linear-gradient(rgb(0, 0, 0), transparent);
+    mask-image: linear-gradient(rgb(0, 0, 0), transparent);
+}
