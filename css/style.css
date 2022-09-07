@@ -6,3 +6,7 @@
     -webkit-mask-image: linear-gradient(rgb(0, 0, 0), transparent);
     mask-image: linear-gradient(rgb(0, 0, 0), transparent);
 }
+
+.bg-cartoon {
+    background-color: #F4FAFD;
+}
